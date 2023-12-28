@@ -6,6 +6,7 @@
 * **ELLM**: "Guiding Pretraining in Reinforcement Learning with Large Language Models", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2302.06692)] [[Website](https://github.com/yuqingd/ellm.)]
 
 * **LAMP**: "Language Reward Modulation for Pretraining Reinforcement Learning", *arXiv, Aug 2023*. [[Paper](https://arxiv.org/abs/2308.12270)] [[Website](https://github.com/ademiadeniji/lamp)]
+* **Text2Reward**: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
 
 
 ## Manipulation
