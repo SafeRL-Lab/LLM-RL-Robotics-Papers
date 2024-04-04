@@ -7,10 +7,11 @@
 
 * **LAMP**: "Language Reward Modulation for Pretraining Reinforcement Learning", *arXiv, Aug 2023*. [[Paper](https://arxiv.org/abs/2308.12270)] [[Website](https://github.com/ademiadeniji/lamp)]
 * **Text2Reward**: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://text-to-reward.github.io/)]
+* **Reflexion**: "Reflexion: Language Agents with Verbal Reinforcement Learning", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.11489)] [[Website](https://github.com/noahshinn/reflexion)]
 
 
 ## Manipulation
-* **RoboCat**: "RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation", *arxiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.11706)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
+* **RoboCat**: "RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation", *arxiv, Oct 2023*. [[Paper](https://arxiv.org/pdf/2303.11366.pdf)]  [[Website](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)]
 
 * **WHEN2ASK**: "Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach", *arxiv, Aug 2023*. [[Paper](https://arxiv.org/abs/2306.03604)]  [[Website](https://github.com/ZJLAB-AMMI/LLM4RL)]
 
