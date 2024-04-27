@@ -1,5 +1,9 @@
 # LLM-RL-Papers
 
+## MARL in LLMs
+* Large language model based multi-agents: A survey of progress and challenges. [Paper](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
+* Theory of mind for multi-agent collaboration via large language models [Paper](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
+
 ## Reward 
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
 
